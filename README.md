@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Kirtisable/cybersecurity-projects/blob/main/banner.png" alt="Cybersecurity Projects Banner" />
+</p>
+
 # 🔐 Cybersecurity Projects
 
 Beginner-friendly cybersecurity projects using Python and Jupyter Notebook.  
