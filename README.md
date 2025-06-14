@@ -42,3 +42,10 @@ Clone the repo:
 ```bash
 git clone https://github.com/Kirtisable/cybersecurity-projects.git
 
+## 📌 Author
+**Kirti Vijay Sable**  
+Aspiring Cybersecurity Professional | Python Enthusiast  
+GitHub: [@Kirtisable](https://github.com/Kirtisable)
+
+## ⭐ Star this repo if you found it helpful!
+
