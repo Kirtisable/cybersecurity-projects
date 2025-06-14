@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kirtisable/cybersecurity-projects/blob/main/banner.png" alt="Cybersecurity Projects Banner" />
+  <img src="https://github.com/Kirtisable/cybersecurity-projects/blob/main/Banner.png" alt="Cybersecurity Projects Banner" />
 </p>
 
 # 🔐 Cybersecurity Projects
