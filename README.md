@@ -41,6 +41,9 @@ Each project demonstrates a key concept in cybersecurity — detection, preventi
 Clone the repo:
 ```bash
 git clone https://github.com/Kirtisable/cybersecurity-projects.git
+```
+
+---
 
 ## 📌 Author
 **Kirti Vijay Sable**  
